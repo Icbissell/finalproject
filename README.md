@@ -33,11 +33,18 @@ To reach this end, we intend to combine molecular data matrices for Balaenopteri
 
 ## Methods
 
-The tools I used were... See analysis files at (links to analysis files).
+A publicly available matrix of cetacean morphological data was obtained from Solis-Añorve et al. (2020). This matrix includes 272 characters for 100 taxa, including 11 extant taxa consisting of all eight extant species of rorqual, sperm whales, right whales, and bowhead whales. Primary analysis of this matrix was then performed using [IQ-TREE](http://www.iqtree.org/) to build a maximum parsimony tree and maximum likelihood tree under a Jukes-Cantor-type model for morphological data. First and last fossil occurrence data were then found for all extinct taxa within the matrix and included in an updated NEXUS file. Last occurrence data were used for time-calibrating tips so as not to overestimate the amount of change. All references used to estimate occurrence data and the specific calibration dates can be found in [Supplementary Table 1](https://docs.google.com/spreadsheets/d/1y5EFwhsece4GBXPdpfWWFVy7wS1yI1QjBZOOTcmOETU/edit?usp=sharing). 
+BEAUTi v2.6.7 was used to create XML input files for BEAST2 (v2.6.3) using the fossil-calibrated morphological matrix. XML inputs were configured to include tip-dating under a Random Local Clock model and run under the Fossilized Birth Death (FBD) model. The FBD model allows for inclusion of all fossilized taxa and calibration of extant and extinct taxa under the same macroevolutionary process (Heath et al., 2014). MCMC simulations were run with chain lengths of 107 iterations, with burn-in periods of 106 iterations, storing every 5000. Three BEAST2 simulations were run with these specifications on Yale’s High Performance Computing cluster Farnam. All input and configuration files for these simulations are included in the supplementary information. The output log and .trees files were too large to include in this repository because of GitHub storage limits, but can be found in the [supplementary repository](https://drive.google.com/drive/folders/1AYV02CGQMamsj9nkxr4e0VuwfZJ6H9Qz?usp=sharing). Mixing and convergence of output files were analyzed using [Tracer v1.7.2](https://github.com/beast-dev/tracer/releases/tag/v1.7.2). The calculated posteriors of the three simulations were then combined using the BEAST2 ancillary package LogCombiner to couple a total of 270,001 trees (90,001 saved from each individual run). Finally TreeAnnotator, another BEAST2 support package, was used to combine trees into a single Maximum Clade Credibility tree with node heights denoting median heights. [Figtree](http://tree.bio.ed.ac.uk/software/figtree/) was used to view and format the resulting combined trees. 
+
 
 ## Results
 
 The tree in Figure 1...
+
+![pars_tree](pars_tree.jpg)
+
+
+![ml_tree](ml_tree.jpg)
 
 ## Discussion
 

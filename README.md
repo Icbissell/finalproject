@@ -43,8 +43,9 @@ The tree in Figure 1...
 
 ![pars_tree](pars_tree.jpg)
 
-
 ![ml_tree](ml_tree.jpg)
+
+![mcmc_tree](mcmc_tree.jpg)
 
 ## Discussion
 

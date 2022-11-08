@@ -58,6 +58,10 @@ The tree in Figure 1...
 ![mcmc_tree](mcmc_tree.jpg)
 <font size= 1> **Figure 3. Maximum clade credibility phylogeny simulated with BEAST2. The colors of each branch show relative rates of morphological change over time. Blue bars over nodes indicate 95% confidence intervals for divergence times. The time scale at the bottom shows time before present, in millions of years.** </font>
 
+![ltt_plot](ltt_plot.jpeg)
+Figure 4. Lineages through time extracted from BEAST2 phylogeny. The x-axis shows time as millions of years before the present. The y-axis shows log(lineages) and has been log-transformed as lineage numbers are expected to change exponentially through time.  
+
+
 ## Discussion
 
 These results indicate...

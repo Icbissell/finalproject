@@ -33,7 +33,102 @@ To reach this end, we intend to combine molecular data matrices for Balaenopteri
 
 ## Methods
 
-A publicly available matrix of cetacean morphological data was obtained from Solis-Añorve et al. (2020). This matrix includes 272 characters for 100 taxa, including 11 extant taxa consisting of all eight extant species of rorqual, sperm whales, right whales, and bowhead whales. Primary analysis of this matrix was then performed using [IQ-TREE](http://www.iqtree.org/) to build a maximum parsimony tree and maximum likelihood tree under a Jukes-Cantor-type model for morphological data. The best-fit model according to Bayesian information criterion (BIC) was ‘MK+FQ+ASC+R3’ model, a Jukes-Cantor type model with equal character rate frequencies, ascertainment bias correction, and a FreeRate gamma model with three rate categories. First and last fossil occurrence data were then found for all extinct taxa within the matrix and included in an updated NEXUS file. Last occurrence data were used for time-calibrating tips so as not to overestimate the amount of change. All references used to estimate occurrence data and the specific calibration dates can be found in [Supplementary Table 1](https://docs.google.com/spreadsheets/d/1y5EFwhsece4GBXPdpfWWFVy7wS1yI1QjBZOOTcmOETU/edit?usp=sharing). 
+A publicly available matrix of cetacean morphological data was obtained from Solis-Añorve et al. (2020). This matrix includes 272 characters for 100 taxa, including 11 extant taxa consisting of all eight extant species of rorqual, sperm whales, right whales, and bowhead whales. Primary analysis of this matrix was then performed using [IQ-TREE](http://www.iqtree.org/) to build a maximum parsimony tree and maximum likelihood tree under a Jukes-Cantor-type model for morphological data. The best-fit model according to Bayesian information criterion (BIC) was ‘MK+FQ+ASC+R3’ model, a Jukes-Cantor type model with equal character rate frequencies, ascertainment bias correction, and a FreeRate gamma model with three rate categories. First and last fossil occurrence data were then found for all extinct taxa within the matrix and included in an updated NEXUS file. Last occurrence data were used for time-calibrating tips so as not to overestimate the amount of change. All references used to estimate occurrence data and the specific calibration dates can be found in Table 1, as well as more comprehensively in [Supplementary Table 1](https://docs.google.com/spreadsheets/d/1y5EFwhsece4GBXPdpfWWFVy7wS1yI1QjBZOOTcmOETU/edit?usp=sharing).
+
+***Table 1. Last occurrence dates and reference for all taxa used in Bayesian analysis***
+
+
+| Taxon                            | Last Occurrance (Ma) | Reference                     |
+| -------------------------------- | ---------------- | ----------------------------- |
+| Zygorhiza kochii                 | 33.6             | Gingerich 2015                |
+| Archaeodelphis patrius           | 26               | Geisler et al. 2011           |
+| Waipatia maerewhenua             | 24               | Fordyce 1994                  |
+| Aetiocetus cotylalveus           | 30               | Geisler et al. 2011           |
+| Aetiocetus polydentatus          | 25.1             | Barnes et al. 1994            |
+| Aetiocetus weltoni               | 28               | Deméré and Berta 2008         |
+| Aglaocetus moreni                | 19.4             | Steeman 2009                  |
+| Aglaocetus patulus               | 13.65            | Kellogg 1968                  |
+| Aulocetus latus                  | 8.5              | Marx et al. 2016              |
+| Balaena montalionis              | 2.6              | Capellini 1904                |
+| Balaenella brachyrhynus          | 3.6              | Bisconti 2005                 |
+| Balaenula astensis               | 2.6              | Trevisan 1942                 |
+| Balaenula sp.                    | 3.5              | Tanaka et al. 2020            |
+| Brandtocetus chongulek           | 12               | Gol'din and Startsev 2012     |
+| Cephalotropis coronatus          | 7.2              | Cope 1896                     |
+| Cetotherium riabinini            | 9.3              | Gol'din et al. 2020           |
+| ChM pv4745                       | 30               | Geisler et al. 2011           |
+| Chonecetus sookensis             | 23               | Russell 1968                  |
+| Diorocetus chichibuensis         | 13.6             | Yoshida et al. 2003           |
+| Diorocetus hiatus                | 13.8             | Kellogg 1968                  |
+| Diorocetus shobarensis           | 16               | Otsuka and Ota 2008           |
+| Eomysticetus whitmorei           | 23               | Sanders and Barnes 2002       |
+| Eubalaena belgica                | 2.5              | Bisconti et al. 2017          |
+| Eubalaena shinshuensis           | 5.4              | Bisconti et al. 2017          |
+| Fucaia buelli                    | 30               | Mark et al. 2015              |
+| Fucaia goedertorum               | 26               | Geisler et al. 2011           |
+| Herentalia nigra                 | 7.3              | Bisconti 2014                 |
+| Herpetocetus bramblei            | 5.3              | Whitemore and Barnes 2008     |
+| Herpetocetus morrowi             | 3.1              | Adli et al. 2014              |
+| Herpetocetus sp.                 | 6.8              | Tanaka and Watanabe 2018      |
+| Cetotherium rathkii              | 12.7             | Brandt 1843                   |
+| Isanacetus laticephalus          | 16               | Kimura and Ozawa 2002         |
+| Janjucetus hunderi               | 24               | Fitzgerald 2006               |
+| Joumocetus shimizui              | 7.2              | Kimura et al. 2010            |
+| Kurdalagonus mchedlidzei         | 7.2              | Tarasenko and Lopatin 2012    |
+| Llanocetus denticrenatus         | 33.9             | Fordyce and Mark 2018         |
+| Mammalodon colliveri             | 23.9             | Fordyce and Mark 2016         |
+| Mauicetus parki                  | 23.1             | Benham 1937                   |
+| Metopocetus durinasus            | 11.6             | Cope 1896                     |
+| Metopocetus vandelli             | 8.5              | Marx et al. 2016              |
+| Micromysticetus rothauseni       | 23.1             | Rothausen 1971                |
+| Herpetocetus transatlanticus     | 3.6              | Whitemore and Barnes 2008     |
+| Miocaperea pulchra               | 7.2              | Bisconti 2012                 |
+| Morawanocetus yabukii            | 23.1             | Barnes et al. 1995            |
+| Morenocetus parvus               | 16               | Cabrera 1926                  |
+| Nannocetus eremus                | 5.3              | Kellogg 1929                  |
+| NMNZ mm001630                    | 7                | Mark and Fordyce 2015         |
+| Metopocetus hunteri              | 7.2              | Marx et al. 2016              |
+| OCPC 1178                        | 17.2             | Buono et al. 2017             |
+| OU 22026                         | 27               | Fordyce and Marx 2016         |
+| OU 22224                         | 26.5             | Marx and Fordyce 2015         |
+| OU 22705                         | 21.5             | Marx and Fordyce 2015         |
+| OU gs10897                       | 32.5             | Marx and Fordyce 2015         |
+| Parietobalaena campiniana        | 13.7             | Bisconti et al. 2013          |
+| Parietobalaena palmeri           | 13.7             | Kellogg 1924                  |
+| Parietobalaena sp.               | 13.7             | Bisconti et al. 2013          |
+| Parietobalaena yamaokai          | 13.7             | Otsuka and Ota 2008           |
+| Peripolocetus vexillifer         | 13.7             | Kellogg 1931                  |
+| Pinocetus polonicus              | 13.7             | Czyzewska and Ryziewicz 1976  |
+| Piscobalaena nana                | 5.3              | Pilleri and Siber 1989        |
+| Taikicetus inouei                | 11.6             | Tanaka et al. 2018            |
+| Thinocetus arthritus             | 11.6             | Kellogg 1969                  |
+| Tiphyocetus temblorensis         | 13.7             | Kellogg 1931                  |
+| Titanocetus sammarinensis        | 13.7             | Capellini 1901                |
+| Tiucetus rosae                   | 7.2              | Marx et al. 2017              |
+| Waharoa ruwhenua                 | 25.2             | Boessenecker and Fordyce 2015 |
+| Yamatocetus canaliculatus        | 23.3             | Okazaki 2012                  |
+| ZMT 67                           | 22.4             | Tsai and Fordyce 2018         |
+| Balaena ricei                    | 3.6              | Westage and Whitemore 2002    |
+| Cetotherium megalophysum         | 7.2              | Cope 1895                     |
+| Pelocetus calvertensis           | 13.7             | Kellogg 1965                  |
+| Uranocetus gramensis             | 7.2              | Steeman 2009                  |
+| Archaebalaenoptera castriarquati | 2.6              | Bisconti 2007                 |
+| Balaenoptera bertae              | 2.6              | Boessenecker 2013             |
+| Balaenoptera portisi             | 2.6              | Deméré et al. 2005            |
+| Balaenoptera ryani               | 7.3              | Hanna and McLellan 1924       |
+| Balaenoptera siberi              | 5.3              | Pilleri 1989                  |
+| Diunatans luctoretemergo         | 3.6              | Bosselaers and Post 2010      |
+| Eschrichtioides gastaldii        | 2.6              | Strobel 1881                  |
+| Gricetoides aurorae              | 3.6              | Whitemore and Kaltenbach 2008 |
+| Parabalaenoptera baulinensis     | 5.3              | Zeigler et al. 1997           |
+| Plesiobalaenoptera quarantellii  | 7.2              | Bisconti 2010                 |
+| Incakujira anillodefuego         | 7.2              | Marx and Kohno 2016           |
+| MHN UABCS CBAH2                  | 5.5              | Solis-Añorve et al. 2021      |
+| Megaptera hubachi                | 3.6              | Cope 1968                     |
+| Miobalaenoptera numataensis      | 5.3              | Tanaka and Watanabe 2019      |
+| Norrisanima miocaena             | 7.2              | Kellogg 1922                  |
+| Kennedycetus pericorum           | 5.5              | Solis-Añorve et al. 2021      |
+
 
 BEAUTi v2.6.7 was used to create XML input files for BEAST2 (v2.6.3) using the fossil-calibrated morphological matrix. XML inputs were configured to include tip-dating under a Random Local Clock model and run under the Fossilized Birth Death (FBD) model. The Random Local Clock Model assumes that each branch either inherits its parent's clock rate or evolves a new clock rate with a given probability. This allows for the direct test of a strict clock rate against many alternate clock rates (Drummond, 2010). The FBD model allows for the inclusion of all fossilized taxa and the calibration of extant and extinct taxa under the same macroevolutionary process (Heath et al., 2014). A gamma model was used for the distribution of rate priors, with α = 5.0 and β = 0.05. 
 

@@ -44,7 +44,7 @@ Following the three MCMC simulations, the calculated posteriors were then combin
 
 ## Results
 
-![pars_tree](pars_tree.jpg)
+![pars_tree](pars_tree_long.jpg)
 <font size= 1> **Figure 1. Initial parsimony phylogram created with IQ-TREE. The scale bar below shows relative amounts of morphological character change.**</font>
 
 

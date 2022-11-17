@@ -139,6 +139,8 @@ Following the three MCMC simulations, the calculated posteriors were then combin
 
 ## Results
 
+An initial parsimony tree was created from the morphological matrix using IQ-TREE (Figure 1). Though all members of Balaenoptera were found to form a clade, humpback whales (Megaptera novaeangliae) were recovered within the stem group. As might be expected, morphologically distinct grey whales (Eschrichtius robustus; Eschrichtiidae) were recovered further down the stem group, forming a clade with †Eschrichtioides gastaldii. Broad-scale topology of other extant taxa were also recovered, including pygmy right whales (Caperea marginata) being sister to Balaenopteridae as well as bowhead whales (Balaena mysticetus) and right whales (Eubalaena) falling within a separate clade (Balaenidae). 
+
 ![pars_tree](pars_tree_long.jpg)
 <font size= 1> **Figure 1. Initial parsimony phylogram created with IQ-TREE. The scale bar below shows relative amounts of morphological character change.** </font>
 

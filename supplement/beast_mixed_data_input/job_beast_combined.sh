@@ -11,4 +11,4 @@ module load Beast/2.6.3-GCCcore-10.2.0
 packagemanager -add SA
 packagemanager -add MM
 
-beast combined_beast2.xml
+beast combined_3_input.xml

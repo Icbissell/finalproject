@@ -157,6 +157,8 @@ An initial parsimony tree was created from the morphological matrix using IQ-TRE
 ![ltt_plot](ltt_plot.jpg)
 <font size= 1> **Figure 4. Lineages through time extracted from BEAST2 phylogeny. The x-axis shows time as millions of years before the present. The y-axis shows log(lineages) and has been log-transformed as lineage numbers are expected to change exponentially through time.** </font>
 
+![extant_plot](extant_combined.jpg)
+<font size= 1> **Figure 5. Phylogeny of extant taxa from combined morphological and molecular data. Bayesian psterior support values are shown at the nodes** </font>
 
 ## Discussion
 

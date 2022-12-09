@@ -174,8 +174,14 @@ The second point arising from the LTT analysis is that the MRCA of Balaenopterid
 ![ltt_plot](ltt_plot.jpg)
 <font size= 1> **Figure 4. Lineages through time extracted from BEAST2 phylogeny. The x-axis shows time as millions of years before the present. The y-axis shows log(lineages) and has been log-transformed as lineage numbers are expected to change exponentially through time.** </font>
 
+There were a number of points at which the relationships between extant species in the phylogeny generated from morphological data (Figure 3) differed from molecular studies (e.g. Berta et al., 2016; McGowan et al., 2020). In our results, grey whales (*Eschrichtius robustus*) were found to have diverged first, followed by humpback whales. Nevertheless, these were not strong results—the posterior probabilities for these splits were 0.5644 and 0.4329, respectively. The mixed-data phylogeny shown in Figure 5 helps to clarify the strength of the morphological effect on the uncertainties of this topology. When molecular data was included in the inference, relationships were recovered with significant support (100% for all nodes shown). 
+
+
 ![extant_plot](extant_combined.jpg)
 <font size= 1> **Figure 5. Phylogeny of extant taxa from combined morphological and molecular data. Bayesian posterior support values are shown at the nodes.** </font>
+
+Under this model, the minke whale clade was found to diverge first, followed by a fin whale-humpback whale clade. Grey whales, notably, were recovered in the middle of the crown group rather than on the stem. Grey whales have largely been considered as distinct from the members of Balaenopteridae (they are their own genus afterall) and have only begun to be placed within the clade as molecular support for the position grows.  An interesting point about this analysis is that the purely morphological analysis found grey whales far outside the crown group and in the mixed-data analysis squarely within it, while purely molecular studies find grey whales to have diverged following minke whales (McGowan et al., 2020). Further, the placement of grey whales here received 100% Bayesian posterior probability, while the placement found by McGowen et al. (2020) only received bootstrap support of 64 to 78. We can be fairly confident in the placement of Minke whales, as well as the blue-sei whale and humpback-fin whale clades, as this is corroborated by most molecular phylogenies and receive high support under maximum likelihood methods. These results point to the inclusion of morphological data as being a useful method to find support when topology is precarious, while having little effect on nodes well-supported by molecular data. 
+
 
 ## Discussion
 

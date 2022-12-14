@@ -174,66 +174,67 @@ Finally, I would like to further explore the mechanisms behind the flux of morph
 
 ## References
 
-1. Árnason, Ú., Lammers, F., Kumar, V., Nilsson, M.A., Janke, A., 2018. Whole-genome sequencing of the blue whale and other rorquals finds signatures for introgressive gene flow. Science Advances 4, eaap9873. https://doi.org/10.1126/sciadv.aap9873
+1. Árnason, Ú., Lammers, F., Kumar, V., Nilsson, M. A. & Janke, A. Whole-genome sequencing of the blue whale and other rorquals finds signatures for introgressive gene flow. Science Advances 4, eaap9873 (2018).
 
-2. Berta, A., Lanzetti, A., Ekdale, E.G., Deméré, T.A., 2016. From Teeth to Baleen and Raptorial to Bulk Filter Feeding in Mysticete Cetaceans: The Role of Paleontological, Genetic, and Geochemical Data in Feeding Evolution and Ecology. Integrative and Comparative Biology 56, 1271–1284. https://doi.org/10.1093/icb/icw128
+2. Berta, A., Lanzetti, A., Ekdale, E. G. & Deméré, T. A. From Teeth to Baleen and Raptorial to Bulk Filter Feeding in Mysticete Cetaceans: The Role of Paleontological, Genetic, and Geochemical Data in Feeding Evolution and Ecology. Integrative and Comparative Biology 56, 1271–1284 (2016).
 
-3. Boessenecker, R.W., Fordyce, R.E., 2015a. A new Eomysticetid (Mammalia: Cetacea) from the Late Oligocene of New Zealand and a re-evaluation of ‘ Mauicetus ’ waitakiensis. Papers in Palaeontology 1, 107–140. https://doi.org/10.1002/spp2.1005
+3. Boessenecker, R. W. & Fordyce, R. E. A new Eomysticetid (Mammalia: Cetacea) from the Late Oligocene of New Zealand and a re-evaluation of ‘ Mauicetus ’ waitakiensis. Papers in Palaeontology 1, 107–140 (2015).
 
-4. Boessenecker, R.W., Fordyce, R.E., 2015b. A new genus and species of eomysticetid (Cetacea: Mysticeti) and a reinterpretation of ‘ M auicetus ’ lophocephalus Marples, 1956: Transitional baleen whales from the upper Oligocene of New Zealand: Oligocene Eomysticetid From New Zealand. Zool J Linn Soc 175, 607–660. https://doi.org/10.1111/zoj.12297
+4. Boessenecker, R. W. & Fordyce, R. E. A new genus and species of eomysticetid (Cetacea: Mysticeti) and a reinterpretation of ‘ M auicetus ’ lophocephalus Marples, 1956: Transitional baleen whales from the upper Oligocene of New Zealand: Oligocene Eomysticetid From New Zealand. Zool J Linn Soc 175, 607–660 (2015).
 
-5. Bouckaert, R., Vaughan, T.G., Barido-Sottani, J., Duchêne, S., Fourment, M., Gavryushkina, A., Heled, J., Jones, G., Kühnert, D., De Maio, N., Matschiner, M., Mendes, F.K., Müller, N.F., Ogilvie, H.A., du Plessis, L., Popinga, A., Rambaut, A., Rasmussen, D., Siveroni, I., Suchard, M.A., Wu, C.-H., Xie, D., Zhang, C., Stadler, T., Drummond, A.J., 2019. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLoS Comput Biol 15, e1006650. https://doi.org/10.1371/journal.pcbi.1006650
+5. Bouckaert, R. et al. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLoS Comput Biol 15, e1006650 (2019).
 
-6. Coombs, E.J., Clavel, J., Park, T., Churchill, M., Goswami, A., 2020. Wonky whales: the evolution of cranial asymmetry in cetaceans. BMC Biol 18, 86. https://doi.org/10.1186/s12915-020-00805-4
+6. Coombs, E. J., Clavel, J., Park, T., Churchill, M. & Goswami, A. Wonky whales: the evolution of cranial asymmetry in cetaceans. BMC Biol 18, 86 (2020).
 
-7. Deméré, T.A., Berta, A., McGowen, M.R., 2005. The Taxonomic and Evolutionary History of Fossil and Modern Balaenopteroid Mysticetes. J Mammal Evol 12, 99–143. https://doi.org/10.1007/s10914-005-6944-3
+7. Deméré, T. A., Berta, A. & McGowen, M. R. The Taxonomic and Evolutionary History of Fossil and Modern Balaenopteroid Mysticetes. J Mammal Evol 12, 99–143 (2005).
+8. Drummond, A. J. & Suchard, M. A. Bayesian random local clocks, or one rate to rule them all. BMC Biol 8, 114 (2010).
 
-8. Drummond, A.J., Suchard, M.A., 2010. Bayesian random local clocks, or one rate to rule them all. BMC Biol 8, 114. https://doi.org/10.1186/1741-7007-8-114
+9. Fordyce, R. E. 18. Cetacean Evolution and Eocene/Oligocene Environments. in Eocene-Oligocene Climatic and Biotic Evolution (eds. Prothero, D. R. & Berggren, W. A.) 368–381 (Princeton University Press, 1992). doi:10.1515/9781400862924.368.
 
-9. Fordyce, R.E., 1992. 18. Cetacean Evolution and Eocene/Oligocene Environments, in: Prothero, D.R., Berggren, W.A. (Eds.), Eocene-Oligocene Climatic and Biotic Evolution. Princeton University Press, pp. 368–381. https://doi.org/10.1515/9781400862924.368
+10. Fordyce, R. E. & Marx, F. G. The pygmy right whale Caperea marginata : the last of the cetotheres. Proc. R. Soc. B. 280, 20122645 (2013).
 
-10. Fordyce, R.E., 1980. Whale evolution and Oligocene southern ocean environments. Palaeogeography, Palaeoclimatology, Palaeoecology 31, 319–336. https://doi.org/10.1016/0031-0182(80)90024-3
+11. Fordyce, R. E. Whale evolution and Oligocene southern ocean environments. Palaeogeography, Palaeoclimatology, Palaeoecology 31, 319–336 (1980).
 
-11. Fordyce, R.E., Marx, F.G., 2013. The pygmy right whale Caperea marginata : the last of the cetotheres. Proc. R. Soc. B. 280, 20122645. https://doi.org/10.1098/rspb.2012.2645
+12. Hassanin, A. et al. Pattern and timing of diversification of Cetartiodactyla (Mammalia, Laurasiatheria), as revealed by a comprehensive analysis of mitochondrial genomes. Comptes Rendus Biologies 335, 32–50 (2012).
 
-12. Hassanin, A., Delsuc, F., Ropiquet, A., Hammer, C., Jansen van Vuuren, B., Matthee, C., Ruiz-Garcia, M., Catzeflis, F., Areskoug, V., Nguyen, T.T., Couloux, A., 2012. Pattern and timing of diversification of Cetartiodactyla (Mammalia, Laurasiatheria), as revealed by a comprehensive analysis of mitochondrial genomes. Comptes Rendus Biologies 335, 32–50. https://doi.org/10.1016/j.crvi.2011.11.002
+13. Heath, T. A. Divergence time estimation using BEAST v2. Dating species divergences with the fossilized birth-death process (2015).
 
-13. Heath, T.A., 2015. Divergence time estimation using BEAST v2. Dating species divergences with the fossilized birth-death process.
-Heath, T.A., Huelsenbeck, J.P., Stadler, T., 2014. The fossilized birth–death process for coherent calibration of divergence-time estimates. Proc. Natl. Acad. Sci. U.S.A. 111. https://doi.org/10.1073/pnas.1319091111
+14. Heath, T. A., Huelsenbeck, J. P. & Stadler, T. The fossilized birth–death process for coherent calibration of divergence-time estimates. Proc. Natl. Acad. Sci. U.S.A. 111, (2014).
 
-14. Katoh, K., Standley, D.M., 2013. MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability. Molecular Biology and Evolution 30, 772–780. https://doi.org/10.1093/molbev/mst010
+15. Katoh, K. & Standley, D. M. MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability. Molecular Biology and Evolution 30, 772–780 (2013).
 
-15. Lammers, F., Blumer, M., Rücklé, C., Nilsson, M.A., 2019. Retrophylogenomics in rorquals indicate large ancestral population sizes and a rapid radiation. Mobile DNA 10, 5. https://doi.org/10.1186/s13100-018-0143-2
+16. Lammers, F., Blumer, M., Rücklé, C. & Nilsson, M. A. Retrophylogenomics in rorquals indicate large ancestral population sizes and a rapid radiation. Mobile DNA 10, 5 (2019).
 
-16. Lloyd, G.T., Slater, G.J., 2021. A Total-Group Phylogenetic Metatree for Cetacea and the Importance of Fossil Data in Diversification Analyses. Systematic Biology 70, 922–939. https://doi.org/10.1093/sysbio/syab002
+17. Lloyd, G. T. & Slater, G. J. A Total-Group Phylogenetic Metatree for Cetacea and the Importance of Fossil Data in Diversification Analyses. Systematic Biology 70, 922–939 (2021).
 
-17. Luo, A., Duchêne, D.A., Zhang, C., Zhu, C.-D., Ho, S.Y.W., 2020. A Simulation-Based Evaluation of Tip-Dating Under the Fossilized Birth–Death Process. Systematic Biology 69, 325–344. https://doi.org/10.1093/sysbio/syz038
+18. Luo, A., Duchêne, D. A., Zhang, C., Zhu, C.-D. & Ho, S. Y. W. A Simulation-Based Evaluation of Tip-Dating Under the Fossilized Birth–Death Process. Systematic Biology 69, 325–344 (2020).
 
-18. Mancia, A., 2018. On the revolution of cetacean evolution. Marine Genomics 41, 1–5. https://doi.org/10.1016/j.margen.2018.08.004
+19. Mancia, A. On the revolution of cetacean evolution. Marine Genomics 41, 1–5 (2018).
 
-19. Marx, F.G., Fordyce, R.E., 2015. Baleen boom and bust: a synthesis of mysticete phylogeny, diversity and disparity. R. Soc. open sci. 2, 140434. https://doi.org/10.1098/rsos.140434
+20. Marx, F. G. & Fordyce, R. E. Baleen boom and bust: a synthesis of mysticete phylogeny, diversity and disparity. R. Soc. open sci. 2, 140434 (2015).
 
-20. Marx, F.G., Kohno, N., 2016. A new Miocene baleen whale from the Peruvian desert. R. Soc. open sci. 3, 160542. https://doi.org/10.1098/rsos.160542
+21. Marx, F. G. & Kohno, N. A new Miocene baleen whale from the Peruvian desert. R. Soc. open sci. 3, 160542 (2016).
 
-21. Marx, F.G., Post, K., Bosselaers, M., Munsterman, D.K., 2019. A large Late Miocene cetotheriid (Cetacea, Mysticeti) from the Netherlands clarifies the status of Tranatocetidae. PeerJ 7, e6426. https://doi.org/10.7717/peerj.6426
+22. Marx, F. G., Post, K., Bosselaers, M. & Munsterman, D. K. A large Late Miocene cetotheriid (Cetacea, Mysticeti) from the Netherlands clarifies the status of Tranatocetidae. PeerJ 7, e6426 (2019).
 
-22. McGowen, M.R., Spaulding, M., Gatesy, J., 2009. Divergence date estimation and a comprehensive molecular tree of extant cetaceans. Molecular Phylogenetics and Evolution 53, 891–906. https://doi.org/10.1016/j.ympev.2009.08.018
+23. McGowen, M. R. et al. Phylogenomic Resolution of the Cetacean Tree of Life Using Target Sequence Capture. Systematic Biology 69, 479–501 (2020).
 
-23. McGowen, M.R., Tsagkogeorga, G., Álvarez-Carretero, S., dos Reis, M., Struebig, M., Deaville, R., Jepson, P.D., Jarman, S., Polanowski, A., Morin, P.A., Rossiter, S.J., 2020. Phylogenomic Resolution of the Cetacean Tree of Life Using Target Sequence Capture. Systematic Biology 69, 479–501. https://doi.org/10.1093/sysbio/syz068
+24. McGowen, M. R., Spaulding, M. & Gatesy, J. Divergence date estimation and a comprehensive molecular tree of extant cetaceans. Molecular Phylogenetics and Evolution 53, 891–906 (2009).
 
-24. Minh, B.Q., Schmidt, H.A., Chernomor, O., Schrempf, D., Woodhams, M.D., von Haeseler, A., Lanfear, R., 2020. IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era. Molecular Biology and Evolution 37, 1530–1534. https://doi.org/10.1093/molbev/msaa015
+25. Minh, B. Q. et al. IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era. Molecular Biology and Evolution 37, 1530–1534 (2020).
 
-25. Paradis, E., Schliep, K., 2019. ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R. Bioinformatics 35, 526–528. https://doi.org/10.1093/bioinformatics/bty633
+26. Paradis, E. & Schliep, K. ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R. Bioinformatics 35, 526–528 (2019).
 
-26. Pyenson, N.D., Goldbogen, J.A., Vogl, A.W., Szathmary, G., Drake, R.L., Shadwick, R.E., 2012. Discovery of a sensory organ that coordinates lunge feeding in rorqual whales. Nature 485, 498–501. https://doi.org/10.1038/nature11135
+27. Potvin, J., Goldbogen, J. A. & Shadwick, R. E. Metabolic Expenditures of Lunge Feeding Rorquals Across Scale: Implications for the Evolution of Filter Feeding and the Limits to Maximum Body Size. PLoS ONE 7, e44854 (2012).
 
-27. Revell, L.J., 2012. phytools: an R package for phylogenetic comparative biology (and other things): phytools: R package. Methods in Ecology and Evolution 3, 217–223. https://doi.org/10.1111/j.2041-210X.2011.00169.x
+28. Pyenson, N. D. et al. Discovery of a sensory organ that coordinates lunge feeding in rorqual whales. Nature 485, 498–501 (2012).
 
-28. Slater, G.J., Goldbogen, J.A., Pyenson, N.D., 2017. Independent evolution of baleen whale gigantism linked to Plio-Pleistocene ocean dynamics. Proc. R. Soc. B. 284, 20170546. https://doi.org/10.1098/rspb.2017.0546
+29. Revell, L. J. phytools: an R package for phylogenetic comparative biology (and other things): phytools: R package. Methods in Ecology and Evolution 3, 217–223 (2012).
 
-29. Solis-Añorve, A., González-Barba, G., Hernández-Rivera, R., Schwennicke, T., 2021. Late Miocene balaenopterid (Cetacea:Mysticeti) from Baja California Sur, Mexico. Journal of South American Earth Sciences 111, 103498. https://doi.org/10.1016/j.jsames.2021.103498
+30. Slater, G. J., Goldbogen, J. A. & Pyenson, N. D. Independent evolution of baleen whale gigantism linked to Plio-Pleistocene ocean dynamics. Proc. R. Soc. B. 284, 20170546 (2017).
 
-30. Tanaka, Y., Watanabe, M., 2019. An early and new member of Balaenopteridae from the upper Miocene of Hokkaido, Japan. Journal of Systematic Palaeontology 17, 1417–1431. https://doi.org/10.1080/14772019.2018.1532968
+31. Solis-Añorve, A., González-Barba, G., Hernández-Rivera, R. & Schwennicke, T. Late Miocene balaenopterid (Cetacea:Mysticeti) from Baja California Sur, Mexico. Journal of South American Earth Sciences 111, 103498 (2021).
 
-31. Zurano, J.P., Magalhães, F.M., Asato, A.E., Silva, G., Bidau, C.J., Mesquita, D.O., Costa, G.C., 2019. Cetartiodactyla: Updating a time-calibrated molecular phylogeny. Molecular Phylogenetics and Evolution 133, 256–262. https://doi.org/10.1016/j.ympev.2018.12.015
+32. Tanaka, Y. & Watanabe, M. An early and new member of Balaenopteridae from the upper Miocene of Hokkaido, Japan. Journal of Systematic Palaeontology 17, 1417–1431 (2019).
 
+33. Zurano, J. P. et al. Cetartiodactyla: Updating a time-calibrated molecular phylogeny. Molecular Phylogenetics and Evolution 133, 256–262 (2019).
